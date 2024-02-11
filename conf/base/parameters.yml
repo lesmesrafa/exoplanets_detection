@@ -1,0 +1,7 @@
+batch_size: 64
+beta: 0.5
+drop_last: True
+num_epochs: 5
+shuffle: 
+   - True 
+   - False
