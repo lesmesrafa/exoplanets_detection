@@ -17,3 +17,15 @@ pre-commit
 pre-commit-hooks
 pip-tools
 mypy
+snntorch
+torch
+torchvision
+imblearn
+matplotlib
+numpy
+pandas
+polars
+seaborn
+plotly
+scikit-learn
+torch-utils
